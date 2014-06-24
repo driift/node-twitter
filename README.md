@@ -1,3 +1,12 @@
+
+## WARNING: driift-node-twitter is a Temporary package!!
+
+This is a temporary re-packaging of [istrategylabs/node-twitter](https://github.com/istrategylabs/node-twitter)
+Once they are able to publish to `node-twitter` again, this package will be deleted.
+See: https://github.com/istrategylabs/node-twitter/issues/21
+
+---
+
 # Description
 
 node-twitter is a node.js module for interacting with the Twitter API.
@@ -127,7 +136,7 @@ node-twitter is made available under terms of the [BSD 3-Clause License](http://
 
 # Unit Tests
 
-To run the unit tests, open tests/UnitTestMain.js in a text editor and replace the OAuth placeholder values with your OAuth credentials. 
+To run the unit tests, open tests/UnitTestMain.js in a text editor and replace the OAuth placeholder values with your OAuth credentials.
 
 Save the file then, from the command line, run:
 

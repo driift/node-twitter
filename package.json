@@ -1,8 +1,6 @@
 {
-    "name": "node-twitter",
+    "name": "driift-node-twitter",
     "version": "0.5.1",
-    "description": "A node.js module for interacting with the Twitter API.",
-    "keywords": ["twitter"],
     "bugs": {
         "url": "https://github.com/istrategylabs/node-twitter/issues"
     },
@@ -16,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/istrategylabs/node-twitter.git"
+        "url": "git://github.com/driift/node-twitter.git"
     },
     "dependencies": {
         "request": "2.9.x"
